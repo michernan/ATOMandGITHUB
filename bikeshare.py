@@ -1,4 +1,5 @@
 #BIKESHARE PYTHON FILE Changes will be MARKED IN CAPS
+#Other changes will be added in one week 
 
 import datetime
 import pandas as pd

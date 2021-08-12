@@ -1,6 +1,6 @@
 [remote "origin"]
 url = "https://github.com/michernan/ATOMandGITHUB.git"
-[branch "master"]
+[branch "documentation"]
 remote = origin
 
 [core]
