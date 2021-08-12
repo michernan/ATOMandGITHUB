@@ -1,0 +1,15 @@
+[remote "origin"]
+url = "https://github.com/michernan/ATOMandGITHUB.git"
+[branch "master"]
+remote = origin
+
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[branch "documentation"]
+	remote = origin
+	merge = refs/heads/documentation
